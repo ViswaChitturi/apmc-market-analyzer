@@ -1,0 +1,11 @@
+Python virtual environment
+venv/
+pycache/
+
+Selenium user data directory (if used)
+profile/
+
+IDE and OS files
+.vscode/
+.idea/
+*.DS_Store
